@@ -12,11 +12,11 @@ let score = 0;
 const highestScore = [
   {
     name: 'Mainak',
-    userScore: 6
+    score: 6
   },
   {
     name: 'Suman',
-    userScore: 4
+    score: 4
   }
 ]
 
