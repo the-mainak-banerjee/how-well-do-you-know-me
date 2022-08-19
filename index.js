@@ -12,11 +12,11 @@ let score = 0;
 const highestScore = [
   {
     name: 'Mainak',
-    score: 6
+    score: 18
   },
   {
     name: 'Suman',
-    score: 4
+    score: 14
   }
 ]
 
@@ -49,6 +49,22 @@ const question = [
   {
     que: "What is my favourite film?: ",
     ans: "Tamasha"
+  },
+  {
+    que: "Am I Interested in politics(Yes/No)?: ",
+    ans: "Yes"
+  },
+  {
+    que: "Who is my favourite Cricketer?: ",
+    ans: "Sourav Ganguly"
+  },
+  {
+    que: "What is my favoutire hindi song?: ",
+    ans: "Tum Hi Ho"
+  },
+  {
+    que: "My Favourite Singers Is?: ",
+    ans: "Arijit Singh"
   },
 
 ]
