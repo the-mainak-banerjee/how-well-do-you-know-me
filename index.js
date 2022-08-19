@@ -63,7 +63,7 @@ const question = [
     ans: "Tum Hi Ho"
   },
   {
-    que: "My Favourite Singers Is?: ",
+    que: "My Favourite Singer Is?: ",
     ans: "Arijit Singh"
   },
 
